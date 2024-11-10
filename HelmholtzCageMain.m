@@ -5,5 +5,6 @@
 function x = addition(a,b,c)
 
 x = a + b + c;
+%push
 
 end
